@@ -1,10 +1,5 @@
 venv\
 venv
 
-data/processed/
-*.csv
-
-data/raw/
-*.csv
 
 
